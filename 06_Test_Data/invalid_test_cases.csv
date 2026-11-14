@@ -1,0 +1,11 @@
+TestCaseID,InputFile,DataRow,EmployeeID,RuleViolated,ExpectedResult,ExpectedReason
+TC-V01,employees_invalid.csv,1,E2001,Missing required field (LastName),Rejected,MISSING_LASTNAME
+TC-V02,employees_invalid.csv,2,E2002,Wrong date format (expected YYYY-MM-DD),Rejected,INVALID_DATE_FORMAT
+TC-V03,employees_invalid.csv,3,E2003,Unknown department,Rejected,UNKNOWN_DEPARTMENT
+TC-V04,employees_invalid.csv,4,E2004,First occurrence of an ID that is duplicated later,Processed,
+TC-V05,employees_invalid.csv,5,E2004,Duplicate EmployeeID,Rejected,DUPLICATE_EMPLOYEE_ID
+TC-V06,employees_invalid.csv,6,,Missing EmployeeID,Rejected,MISSING_EMPLOYEE_ID
+TC-V07,employees_invalid.csv,7,E2007,Role not in access matrix for department,Rejected,UNKNOWN_ROLE
+TC-V08,employees_invalid.csv,8,E2008,Impossible calendar date,Rejected,INVALID_DATE_VALUE
+TC-V09,employees_invalid.csv,9,E2009,Missing required field (Manager),Rejected,MISSING_MANAGER
+TC-V10,employees_invalid.csv,10,,Entirely blank record,Rejected,EMPTY_RECORD

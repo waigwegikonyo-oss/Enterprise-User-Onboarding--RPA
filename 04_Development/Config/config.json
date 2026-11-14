@@ -1,0 +1,17 @@
+{
+  "ProcessName": "Enterprise User Onboarding",
+  "EmailDomain": "examplecorp.co.ke",
+  "UsernameFormat": "FirstInitial+LastName",
+  "UsernameRules": {
+    "Lowercase": true,
+    "StripNonLetters": true,
+    "CollisionSuffixStart": 2
+  },
+  "InputFile": "employees_valid.csv",
+  "AccessMatrixFile": "access_matrix.csv",
+  "DateFormat": "yyyy-MM-dd",
+  "ValidDepartments": ["Finance", "IT", "HR", "Sales", "Operations"],
+  "RequiredFields": ["EmployeeID", "FirstName", "LastName", "Department", "Role", "StartDate", "Manager"],
+  "MaxRetryCount": 2,
+  "LogLevel": "Info"
+}

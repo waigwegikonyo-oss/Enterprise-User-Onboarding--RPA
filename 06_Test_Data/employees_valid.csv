@@ -1,0 +1,9 @@
+EmployeeID,FirstName,LastName,Department,Role,StartDate,Manager
+E1001,Amina,Hassan,Finance,Accountant,2026-12-01,Peter Njoroge
+E1002,Brian,Otieno,IT,Support Engineer,2026-12-01,Lucy Wambui
+E1003,Cynthia,Mutua,HR,HR Officer,2026-12-07,Samuel Kiprop
+E1004,Daniel,Kiptoo,Sales,Sales Executive,2026-12-07,Esther Achieng
+E1005,Faith,Wanjiru,Operations,Operations Analyst,2026-12-14,Joseph Mwangi
+E1006,John,Kamau,IT,Network Engineer,2026-12-14,Lucy Wambui
+E1007,Jane,Kamau,Finance,Finance Manager,2026-12-14,Peter Njoroge
+E1008,Grace,Mwangi-Otieno,Sales,Sales Manager,2027-01-04,Esther Achieng

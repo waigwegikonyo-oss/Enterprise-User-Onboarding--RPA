@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Role,StartDate,Manager
+E2001,Kevin,,IT,Support Engineer,2026-12-01,Lucy Wambui
+E2002,Linet,Chebet,HR,HR Officer,01/12/2026,Samuel Kiprop
+E2003,Moses,Odhiambo,Marketing,Brand Executive,2026-12-01,Esther Achieng
+E2004,Nancy,Akinyi,Finance,Accountant,2026-12-07,Peter Njoroge
+E2004,Nelson,Rotich,Finance,Accountant,2026-12-07,Peter Njoroge
+,Olivia,Naliaka,Sales,Sales Executive,2026-12-07,Esther Achieng
+E2007,Patrick,Mbugua,IT,Astronaut,2026-12-14,Lucy Wambui
+E2008,Queen,Atieno,Operations,Operations Analyst,2026-02-30,Joseph Mwangi
+E2009,Robert,Kimani,Sales,Sales Executive,2026-12-14,
+E2010,,,,,,

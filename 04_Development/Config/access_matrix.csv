@@ -1,0 +1,9 @@
+Department,Role,Systems,AccessLevel
+Finance,Accountant,Email;ERP;Finance Portal,Standard
+Finance,Finance Manager,Email;ERP;Finance Portal;Approvals,Elevated
+IT,Support Engineer,Email;Ticketing;Remote Desktop,Standard
+IT,Network Engineer,Email;Ticketing;Network Console,Elevated
+HR,HR Officer,Email;HRIS;Payroll View,Standard
+Sales,Sales Executive,Email;CRM,Standard
+Sales,Sales Manager,Email;CRM;Sales Dashboard,Elevated
+Operations,Operations Analyst,Email;ERP;Reporting,Standard
