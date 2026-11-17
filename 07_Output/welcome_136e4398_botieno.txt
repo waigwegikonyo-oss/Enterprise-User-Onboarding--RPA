@@ -1,0 +1,10 @@
+Welcome to the team, Brian!
+
+Start date: 2026-12-01
+Department: IT (Support Engineer)
+Manager: Lucy Wambui
+
+Username: botieno
+Email: botieno@examplecorp.co.ke
+Systems: Email, Ticketing, Remote Desktop
+Access level: Standard

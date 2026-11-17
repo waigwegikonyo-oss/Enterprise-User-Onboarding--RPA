@@ -1,0 +1,25 @@
+Enterprise User Onboarding - Run Report
+========================================
+Run ID:     136e4398
+Started:    2026-11-17 15:15:23
+Finished:   2026-11-17 15:15:34
+Duration:   11.9 seconds
+
+Total records: 8
+Processed:     8
+Rejected:      0
+Failed:        0
+
+Rejected / failed records
+-------------------------
+
+Processed accounts
+------------------
+E1001 | ahassan | ahassan@examplecorp.co.ke | Standard
+E1002 | botieno | botieno@examplecorp.co.ke | Standard
+E1003 | cmutua | cmutua@examplecorp.co.ke | Standard
+E1004 | dkiptoo | dkiptoo@examplecorp.co.ke | Standard
+E1005 | fwanjiru | fwanjiru@examplecorp.co.ke | Standard
+E1006 | jkamau | jkamau@examplecorp.co.ke | Elevated
+E1007 | jkamau2 | jkamau2@examplecorp.co.ke | Elevated
+E1008 | gmwangiotieno | gmwangiotieno@examplecorp.co.ke | Elevated

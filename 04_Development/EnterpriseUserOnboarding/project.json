@@ -124,6 +124,42 @@
       "uniqueId": "678dbbbf-c4ca-4f49-8cd5-4216445542fb",
       "input": [],
       "output": []
+    },
+    {
+      "filePath": "WriteAuditLog.cs",
+      "uniqueId": "d6e88c3b-904d-4ae9-8f12-8cd55aa50ba5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GenerateReport.cs",
+      "uniqueId": "8770b28f-97eb-4e34-b174-d8a5a64ce710",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "CloseProcess.cs",
+      "uniqueId": "cac34e08-3f6d-40ff-ab4a-9c91a117df71",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "ProcessEmployees.cs",
+      "uniqueId": "b903193e-d0fd-4d17-b886-694b7532ec0e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "RunOnboarding.cs",
+      "uniqueId": "deeb34c4-7e3c-4bc7-beed-b6733e35c019",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TestEndToEnd.cs",
+      "uniqueId": "9c4f8dab-e754-43a0-b376-f8c2de4ae6bb",
+      "input": [],
+      "output": []
     }
   ],
   "isTemplate": false,

@@ -1,0 +1,11 @@
+Timestamp,RunId,Row,EmployeeID,FullName,Status,ErrorCode,Username,Email,AccessLevel,Systems
+"2026-11-17 15:15:38","33c38517","1","E2001","Kevin","Rejected","MISSING_LASTNAME","","","",""
+"2026-11-17 15:15:39","33c38517","2","E2002","Linet Chebet","Rejected","INVALID_DATE_FORMAT","","","",""
+"2026-11-17 15:15:40","33c38517","3","E2003","Moses Odhiambo","Rejected","UNKNOWN_DEPARTMENT","","","",""
+"2026-11-17 15:15:41","33c38517","4","E2004","Nancy Akinyi","Processed","","nakinyi","nakinyi@examplecorp.co.ke","Standard","Email;ERP;Finance Portal"
+"2026-11-17 15:15:42","33c38517","5","E2004","Nelson Rotich","Rejected","DUPLICATE_EMPLOYEE_ID","","","",""
+"2026-11-17 15:15:42","33c38517","6","","Olivia Naliaka","Rejected","MISSING_EMPLOYEE_ID","","","",""
+"2026-11-17 15:15:42","33c38517","7","E2007","Patrick Mbugua","Rejected","UNKNOWN_ROLE","","","",""
+"2026-11-17 15:15:43","33c38517","8","E2008","Queen Atieno","Rejected","INVALID_DATE_VALUE","","","",""
+"2026-11-17 15:15:43","33c38517","9","E2009","Robert Kimani","Rejected","MISSING_MANAGER","","","",""
+"2026-11-17 15:15:44","33c38517","10","","","Rejected","EMPTY_RECORD","","","",""

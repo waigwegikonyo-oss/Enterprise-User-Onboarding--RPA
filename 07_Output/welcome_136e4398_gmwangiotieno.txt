@@ -1,0 +1,10 @@
+Welcome to the team, Grace!
+
+Start date: 2027-01-04
+Department: Sales (Sales Manager)
+Manager: Esther Achieng
+
+Username: gmwangiotieno
+Email: gmwangiotieno@examplecorp.co.ke
+Systems: Email, CRM, Sales Dashboard
+Access level: Elevated

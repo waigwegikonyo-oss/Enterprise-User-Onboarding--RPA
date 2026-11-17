@@ -1,0 +1,27 @@
+Enterprise User Onboarding - Run Report
+========================================
+Run ID:     33c38517
+Started:    2026-11-17 15:15:35
+Finished:   2026-11-17 15:15:44
+Duration:   8.8 seconds
+
+Total records: 10
+Processed:     1
+Rejected:      9
+Failed:        0
+
+Rejected / failed records
+-------------------------
+Row 1 | E2001 | Kevin | MISSING_LASTNAME
+Row 2 | E2002 | Linet Chebet | INVALID_DATE_FORMAT
+Row 3 | E2003 | Moses Odhiambo | UNKNOWN_DEPARTMENT
+Row 5 | E2004 | Nelson Rotich | DUPLICATE_EMPLOYEE_ID
+Row 6 |  | Olivia Naliaka | MISSING_EMPLOYEE_ID
+Row 7 | E2007 | Patrick Mbugua | UNKNOWN_ROLE
+Row 8 | E2008 | Queen Atieno | INVALID_DATE_VALUE
+Row 9 | E2009 | Robert Kimani | MISSING_MANAGER
+Row 10 |  |  | EMPTY_RECORD
+
+Processed accounts
+------------------
+E2004 | nakinyi | nakinyi@examplecorp.co.ke | Standard

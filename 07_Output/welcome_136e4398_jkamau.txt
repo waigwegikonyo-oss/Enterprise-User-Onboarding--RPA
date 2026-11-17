@@ -1,0 +1,10 @@
+Welcome to the team, John!
+
+Start date: 2026-12-14
+Department: IT (Network Engineer)
+Manager: Lucy Wambui
+
+Username: jkamau
+Email: jkamau@examplecorp.co.ke
+Systems: Email, Ticketing, Network Console
+Access level: Elevated

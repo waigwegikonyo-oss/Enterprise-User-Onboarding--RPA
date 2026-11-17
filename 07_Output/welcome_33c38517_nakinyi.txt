@@ -1,0 +1,10 @@
+Welcome to the team, Nancy!
+
+Start date: 2026-12-07
+Department: Finance (Accountant)
+Manager: Peter Njoroge
+
+Username: nakinyi
+Email: nakinyi@examplecorp.co.ke
+Systems: Email, ERP, Finance Portal
+Access level: Standard
