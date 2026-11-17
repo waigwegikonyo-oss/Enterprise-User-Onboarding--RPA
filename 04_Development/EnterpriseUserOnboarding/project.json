@@ -94,6 +94,36 @@
       "uniqueId": "88d43235-340e-4702-82c0-28441f807937",
       "input": [],
       "output": []
+    },
+    {
+      "filePath": "GenerateUsername.cs",
+      "uniqueId": "6ff36640-cf55-44a8-84b6-76c33ef90474",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GenerateEmail.cs",
+      "uniqueId": "ef06a476-8292-40c1-8e97-262569606e26",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "AssignAccess.cs",
+      "uniqueId": "70ecc1f6-0aec-41d4-8e01-0cdb671356c0",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "GenerateWelcomeMessage.cs",
+      "uniqueId": "b7f6124e-a108-4baf-bb48-121f4f875a7d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "TestGeneration.cs",
+      "uniqueId": "678dbbbf-c4ca-4f49-8cd5-4216445542fb",
+      "input": [],
+      "output": []
     }
   ],
   "isTemplate": false,
