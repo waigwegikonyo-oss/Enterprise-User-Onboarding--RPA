@@ -7,13 +7,145 @@
       "type": "process"
     },
     {
+      "filePath": "LoadAccessMatrix.cs",
+      "uniqueId": "19b12b49-31df-4fd3-bb8c-72fe22a19654",
+      "type": "process"
+    },
+    {
       "filePath": "LoadConfiguration.cs",
       "uniqueId": "4e29cafb-3750-4b59-b143-e355e87541f2",
-      "type": "process"
+      "type": "process",
+      "output": {
+        "type": "object",
+        "properties": {
+          "Output": {
+            "type": "object",
+            "properties": {
+              "ProcessName": {
+                "type": "string"
+              },
+              "EmailDomain": {
+                "type": "string"
+              },
+              "UsernameFormat": {
+                "type": "string"
+              },
+              "UsernameRules": {
+                "type": "object",
+                "properties": {
+                  "Lowercase": {
+                    "type": "boolean"
+                  },
+                  "StripNonLetters": {
+                    "type": "boolean"
+                  },
+                  "CollisionSuffixStart": {
+                    "$ref": "#/$defs/integer"
+                  }
+                }
+              },
+              "InputFile": {
+                "type": "string"
+              },
+              "AccessMatrixFile": {
+                "type": "string"
+              },
+              "DateFormat": {
+                "type": "string"
+              },
+              "ValidDepartments": {
+                "$ref": "#/$defs/listOfString"
+              },
+              "RequiredFields": {
+                "$ref": "#/$defs/listOfString"
+              },
+              "MaxRetryCount": {
+                "$ref": "#/$defs/integer"
+              },
+              "LogLevel": {
+                "type": "string"
+              }
+            },
+            "$defs": {
+              "integer": {
+                "type": "integer",
+                "minimum": -2147483648,
+                "maximum": 2147483647
+              },
+              "listOfString": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
     },
     {
       "filePath": "Main.xaml",
       "uniqueId": "29e4b0af-d972-4ac2-8d9f-4a9c40b7d0c7",
+      "type": "process"
+    },
+    {
+      "filePath": "ReadEmployees.cs",
+      "uniqueId": "9172eed4-f4bd-456a-b4e6-5a386054a334",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "inputFileName": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "inputFileName"
+        ]
+      },
+      "output": {
+        "type": "object",
+        "properties": {
+          "Output": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "RowNumber": {
+                  "type": "integer",
+                  "minimum": -2147483648,
+                  "maximum": 2147483647
+                },
+                "EmployeeID": {
+                  "type": "string"
+                },
+                "FirstName": {
+                  "type": "string"
+                },
+                "LastName": {
+                  "type": "string"
+                },
+                "Department": {
+                  "type": "string"
+                },
+                "Role": {
+                  "type": "string"
+                },
+                "StartDate": {
+                  "type": "string"
+                },
+                "Manager": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "filePath": "TestReadEmployees.cs",
+      "uniqueId": "7c74c03d-8e61-4cef-9344-613cd4866502",
       "type": "process"
     }
   ]
