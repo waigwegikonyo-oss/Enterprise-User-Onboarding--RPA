@@ -2,5 +2,5 @@
   "Name": "EnterpriseUserOnboarding",
   "ProjectType": "Process",
   "Description": "Blank Process",
-  "MainFile": "Main.xaml"
+  "MainFile": "RunOnboarding.cs"
 }

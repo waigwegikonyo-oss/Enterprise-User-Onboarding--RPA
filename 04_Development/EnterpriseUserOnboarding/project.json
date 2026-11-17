@@ -2,7 +2,7 @@
   "name": "EnterpriseUserOnboarding",
   "projectId": "d00bce61-0935-42f8-94a8-7c1c435b366a",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "RunOnboarding.cs",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.6.1]",
     "UiPath.Mail.Activities": "[2.12.10]",

@@ -1,8 +1,0 @@
-## Validation test run 1
-- Result: 9/10 passed
-- Defect: TC-V10 failed. Test data row 10 contained an EmployeeID (E2010), contradicting the expected result sheet (blank record).
-- Root cause: test data error, not application error.
-- Fix: changed row 10 to an entirely blank record.
-
-## Validation test run 2
-- Result: 10/10 passed
