@@ -1,0 +1,10 @@
+Welcome to the team, Jane!
+
+Start date: 2026-12-14
+Department: Finance (Finance Manager)
+Manager: Peter Njoroge
+
+Username: jkamau2
+Email: jkamau2@examplecorp.co.ke
+Systems: Email, ERP, Finance Portal, Approvals
+Access level: Elevated

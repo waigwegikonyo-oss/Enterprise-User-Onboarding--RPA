@@ -1,0 +1,9 @@
+Timestamp,RunId,Row,EmployeeID,FullName,Status,ErrorCode,Username,Email,AccessLevel,Systems
+"2026-11-17 15:56:53","e6938f0b","1","E1001","Amina Hassan","Processed","","ahassan","ahassan@examplecorp.co.ke","Standard","Email;ERP;Finance Portal"
+"2026-11-17 15:56:55","e6938f0b","2","E1002","Brian Otieno","Processed","","botieno","botieno@examplecorp.co.ke","Standard","Email;Ticketing;Remote Desktop"
+"2026-11-17 15:56:56","e6938f0b","3","E1003","Cynthia Mutua","Processed","","cmutua","cmutua@examplecorp.co.ke","Standard","Email;HRIS;Payroll View"
+"2026-11-17 15:56:58","e6938f0b","4","E1004","Daniel Kiptoo","Processed","","dkiptoo","dkiptoo@examplecorp.co.ke","Standard","Email;CRM"
+"2026-11-17 15:56:59","e6938f0b","5","E1005","Faith Wanjiru","Processed","","fwanjiru","fwanjiru@examplecorp.co.ke","Standard","Email;ERP;Reporting"
+"2026-11-17 15:57:00","e6938f0b","6","E1006","John Kamau","Processed","","jkamau","jkamau@examplecorp.co.ke","Elevated","Email;Ticketing;Network Console"
+"2026-11-17 15:57:02","e6938f0b","7","E1007","Jane Kamau","Processed","","jkamau2","jkamau2@examplecorp.co.ke","Elevated","Email;ERP;Finance Portal;Approvals"
+"2026-11-17 15:57:03","e6938f0b","8","E1008","Grace Mwangi-Otieno","Processed","","gmwangiotieno","gmwangiotieno@examplecorp.co.ke","Elevated","Email;CRM;Sales Dashboard"

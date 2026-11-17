@@ -1,0 +1,10 @@
+Welcome to the team, Amina!
+
+Start date: 2026-12-01
+Department: Finance (Accountant)
+Manager: Peter Njoroge
+
+Username: ahassan
+Email: ahassan@examplecorp.co.ke
+Systems: Email, ERP, Finance Portal
+Access level: Standard
